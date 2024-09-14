@@ -1,2 +1,6 @@
 project:
     name: academy-genai
+postgres:
+  port: 5436
+webserver:
+  port: 8084
